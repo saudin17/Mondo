@@ -105,14 +105,4 @@ L’\ |STYLE9|\  (\ |STYLE10|\ ) è una pianta tipica delle foreste e delle mont
 .. |IMG5| image:: static/Flora_5.jpeg
    :height: 266 px
    :width: 401 px
-
-
-
-
-
-
-.. toctree::
-:maxdepth: 3
-:caption: Indice
-fauna/flora
-quokka
+   
